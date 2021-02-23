@@ -34,6 +34,7 @@ Currently supported versions:
 * Spark 2.0.0 for Hadoop 2.7+ with Hive support and OpenJDK 7
 * Spark 1.6.2 for Hadoop 2.6 and later
 * Spark 1.5.1 for Hadoop 2.6 and later
+Fix
 
 ## Using Docker Compose
 
